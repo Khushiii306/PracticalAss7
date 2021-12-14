@@ -1,3 +1,5 @@
+# React Netflix Crat Demo
+
 # REQUIREMENT:
 * Implement cart functionality
 * Use more than 5 products
